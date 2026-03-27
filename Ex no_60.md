@@ -19,8 +19,8 @@ To write a C function to find the peek element of the queue using linked list.
 /*
 C function to find the peek element of the queue using linked list.
 
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 #include <stdio.h>
 #include <stdlib.h>
