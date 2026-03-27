@@ -19,8 +19,8 @@ To write a C Function to display queue elements using Linked List.
 /*
 C Function to display queue elements using Linked List.(use integer data in the queue)
 
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: Yuvaraju T.S
+RegisterNumber:  212222063018
 */
 #include <stdio.h>
 #include <stdlib.h>
